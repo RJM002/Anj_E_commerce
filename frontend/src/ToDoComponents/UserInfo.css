@@ -1,0 +1,25 @@
+.WelcomeMessage{
+    /* color: white; */
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 12px;
+}
+
+.textMedium{
+    font-size: 15px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.todo-button{
+    background: #8758ff;
+    color: #fff;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin:10px 0px ;
+}
